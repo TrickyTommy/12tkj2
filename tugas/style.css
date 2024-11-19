@@ -1,0 +1,14 @@
+.content{
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+}
+.kiri{
+background-color: aquamarine;
+}
+.kanan{
+background-color: aqua;
+}
+.tengah{
+    background-color: bisque;
+
+}

@@ -1,0 +1,36 @@
+*{
+    font-family: tahoma;
+}
+
+/*header */
+
+.header{
+    background-color: burlywood;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 2;
+}
+/* container */
+
+.container{
+    position: relative;
+    z-index: 1;
+    top: 100px;
+    max-width: 700px;
+    margin: 0px auto 0px auto;
+}
+.kolom-konten{
+    width: 480px;
+    float: left;
+}
+.kolom-menu{
+    background-color: aqua;
+    width: 200px;
+    float: left;
+    margin: 10px;
+}
+.kolom-menu ul{
+    list-style-type: none;
+}

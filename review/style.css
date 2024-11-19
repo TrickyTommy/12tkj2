@@ -1,0 +1,21 @@
+body{
+background-color: aqua;
+}
+img{
+    width: 100px;
+    height: auto;
+}
+p{
+    background-color: yellow;
+    color: brown;
+    border: 2px solid rgb(139, 24, 24); 
+    text-align: justify; 
+}
+table, tr, th, td{
+border: 2px solid rgb(128, 22, 25);
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
